@@ -1,0 +1,59 @@
+ code    1  git init
+    2  git al
+    3  git -al
+    4  touch file1
+    5  git init
+    6  git commit -m "first commit"
+    7  git add *
+    8  git commit -m " committed"
+    9  git branch -M main
+   10  git remote add origin https://github.com/Pinnamma1/demo/commit/a9f9e48abb7e0388539112efb53328810848910c
+   11  git push -u origin main
+   12  git remote add origin https://github.com/Pinnamma1/demo
+   13  git remote add origin https://github.com/Pinnamma1/demo.git
+   14  git push -u origin main
+   15  add gitignore
+   16  git init
+   17  ls -al
+   18  git add *
+   19  git commit -m "commited"
+   20  git branch -M master
+   21  git remote add origin 
+   22  git remote add origin https://github.com/Pinnamma1/demo.git
+   23  add .gitignore
+   24  touch file2
+   25  git add file2
+   26  git commit -m "Added File2"
+   27  git branch -M main
+   28  git remote add origin https://github.com/Pinnamma1/demo.git
+   29  pwd
+   30  git clone error: remote origin already exists.
+   31  git remote set-url origin https://github.com/Pinnamma1/demo.git
+   32  git push -u origin main
+   33  git push -u origin main
+   34  code . 
+   35  touch app.py
+   36  code .
+   37  git init
+   38  git status
+   39  git checkout -b kalyani
+   40  git commit -m "Kalyani files"
+   41  git remote add origin https://github.com/Pinnamma1/demo.git
+   42  git push -u origin kalyani
+   43  git cheout -b siva
+   44  git checkout -b siva
+   45  git remote add origin https://github.com/Pinnamma1/Data-Science.git
+   46  git remote set-url origin https://github.com/Pinnamma1/Data-Science.git 
+   47  git push -u origin siva
+   48  git status
+   49  git checkout -b navya
+   50  git add *
+   51  git status
+   52  git commit -m "navya"
+   53  git push -u origin navya
+   54  git commit
+   55  git history
+   56  git --help 
+   57  history
+   58  git history > command.txt
+   59  history > command.txt
